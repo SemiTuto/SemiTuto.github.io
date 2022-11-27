@@ -1,0 +1,53 @@
+div{
+background-color: rgb(255, 255, 255);
+
+}
+
+
+
+
+body{
+
+background-color: rgb(255, 255, 255);
+
+}
+
+
+
+h1{
+color: rgb(0, 0, 0);
+text-align: center;
+}
+
+.wrapper{
+    max-width: 1500px;
+    background: rgb(9, 255, 0);
+    height: 40px;
+    text-align: center;
+}
+
+.marquee {
+    background: rgb(9, 255, 0);
+    white-space: nowrap;
+    -webkit-animation: rightThenLeft 6s linear;
+    color: rgb(255, 0, 0);
+   
+
+}
+ 
+ol{
+color: rgb(255, 0, 0);
+font-size: 1.2rem;
+
+}
+
+
+#borderDemo {
+    border: 12px double rgba(255,0,0,0.37);
+    border-radius: 40px 40px 40px 40px;
+    }
+
+    h2{
+      color: rgb(43, 255, 0);
+
+    }
